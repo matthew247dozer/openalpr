@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-localStorage-092e9f9e2f09450529e744902aa7cdb3a5cc868d",
+      "appliesTo": "localStorage-092e9f9e2f09450529e744902aa7cdb3a5cc868d.html",
+      "type": "launch"
+    }
+  ]
+}
